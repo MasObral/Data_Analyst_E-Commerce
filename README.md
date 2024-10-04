@@ -44,7 +44,7 @@ pip install -r requirements.txt
 cd Data_Analyst_E-Commerce
 streamlit run dashboard.py
 ```
-Access the dashboard in your web browser at `-`.
+Access the dashboard in your web browser at `https://dataanalyste-commerce-3zeod67qhy224lfv9jfw9g.streamlit.app/`.
 
 ## Data Sources
 The project uses E-Commerce Public Dataset from [Belajar Analisis Data dengan Python's Final Project](https://colab.research.google.com/drive/1i9SVrfla_tZUT2Agw2CPl_Ly1CPHOLi6?usp=sharing) offered by [Dicoding](https://www.dicoding.com/).
